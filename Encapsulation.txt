@@ -1,0 +1,22 @@
+Encapsulation
+--------------
+Encapsulation is one of the three fundamental principles of Object-Oriented(oop).along side inheritance and polymorphism. it is the mechanism wrapping data(variables) and the methods that operate on that data into a single unit called a class, while restricting direct accesses to some of the object's components.
+
+why encapsulation matters
+---------------------------
+encapsulation serves several critical purpose in software development.
+
+Data Protection: by hiding internal implementation details, encapsulation prevents external code from directly manipulating an object's internal state in ways that could lead to inconsistent or invalid data.
+
+maintainability: changes to internal implementation of class can be made without effecting the code that uses the class, as long as the public interface remains the same.
+
+code organization: Encapsulation helps to organize a code by grouping related data and methods together making the codebase more modular and easier to understand.
+
+security: sensitive data can be protected from unauthorized accesses by making it private and providing controlled access through public methods.
+
+Abstraction vs Encapsulation
+-----------------------------
+Abstraction: abstraction focus on hiding complexity and showing essential features.
+
+Encapsulation: Encapsulation focus on building data and methods together while controlling accesses.
+ 
